@@ -1,0 +1,52 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background-color: #00008B;
+  color: white; 
+}
+
+h1 {
+  
+  font-family: verdana, arial, sans-serif; 
+}
+
+button{
+  padding:10px;
+  border-radius:100px;
+}
+#gameButtonArea >button{
+  width:200px;
+  height:200px;
+  margin:2px;
+}
+.hidden {
+  display: none;
+}
+#button1 {
+    background: lightgreen;
+}
+#button2 {
+    background: lightblue;
+}
+#button3 {
+    background: pink;
+}
+#button4 {
+    background: lightyellow;
+}
+#button1:active, #button1.lit {
+  background-image:url("https://cdn.glitch.com/8f3e02ee-f0fe-45e1-812c-557bf85f1c84%2Fgreen_flower.jpg?v=1616564417353");
+}
+#button2:active, #button2.lit  {
+    background-image:url("https://cdn.glitch.com/8f3e02ee-f0fe-45e1-812c-557bf85f1c84%2Fblue_flower.jpg?v=1616564409598");
+}
+#button3:active, #button3.lit  {
+    background-image:url("https://cdn.glitch.com/8f3e02ee-f0fe-45e1-812c-557bf85f1c84%2Fpink_flower.jpg?v=1616564024233");
+}
+#button4:active, #button4.lit  {
+    background-image:url("https://cdn.glitch.com/8f3e02ee-f0fe-45e1-812c-557bf85f1c84%2Fyellow_flower.jpg?v=1616564413253");
+}
+
+
