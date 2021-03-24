@@ -39,9 +39,10 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<img src="//im2.ezgif.com/tmp/ezgif-2-180c83cc8a1d.gif" style="width:600px;height:338px" alt="[video-to-gif output image]">
 
-here is the link in case the gif is broken: https://imgur.com/a/pSwDYfx
+![](https://i.imgur.com/HrdiAqx.gif)
+
+
 this is demonstrating the optional task of giving the user three chances to produce the right sound.
 
 
@@ -50,10 +51,10 @@ this is demonstrating the optional task of giving the user three chances to prod
 I used w3 schools to read about javascript and css
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-  I was having dificulty applying the photo. At first I thought I had to insert the image in the html, ands then use javascript to toggle the image on and off when the button was pressed. Then after lookin at W3 schools I discovered that CSS has a property called background-image where i could easily replace the darker color with an image. I also initially had some trouble with the javascript syntax because I never worked with the language before. I was able to apply my previous python knoowledge of if statements for for loops to better understand the language. 
+  I was having difficulty applying the photo. At first I thought I had to insert the image in the html, ands then use javascript to toggle the image on and off when the button was pressed. Then after lookin at W3 schools I discovered that CSS has a property called background-image where i could easily replace the darker color with an image. I also initially had some trouble with the javascript syntax because I never worked with the language before. I was able to apply my previous python knowledge of if statements and for  loops to better understand the language. 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-I want to learn more about javascript and the different librasries and features it posesses. I like being able to bring my website to "life" by implemening javascript. So I would like to explore this language more. I am also curoius how these skills apply to building the front end and backend aspects of web development.
+I want to learn more about javascript and the different libraries and features it contains. I like being able to bring my website to "life" by implementing javascript. So I would like to explore this language more. 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 I would like to learn how to make this into a multilevel game. Lets say after 3 completed rounds, you move on to another "field" of flowers where there are more "flowers" and each time the game gets faster. 
